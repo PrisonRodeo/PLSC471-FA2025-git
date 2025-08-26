@@ -1,0 +1,2 @@
+# PLSC471-FA2025-git
+PLSC 471 - Fall 2025
